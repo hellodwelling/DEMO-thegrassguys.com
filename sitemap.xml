@@ -2,3 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/index</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Fall-and-Spring-Clean-Up</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Lawn-Aeration</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Mowing</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Mulch-Installation</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Patio-Design---Construction</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Retaining-Wall-Construction</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/service-Shrub-Trimming</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/reviews</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/gallery-All</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/gallery-Hardscaping</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/gallery-Landscaping</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/gallery-Lawn-Care</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/blog</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/store</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/contact</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/success</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://DEMO-thegrassguys.com/contact-2-step</loc>
+        <lastmod>2024-02-23</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
