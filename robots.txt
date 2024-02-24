@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://DEMO-thegrassguys.com/sitemap.xml
